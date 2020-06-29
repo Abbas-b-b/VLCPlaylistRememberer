@@ -1,4 +1,4 @@
-#VLC Playlist Rememberer
+# VLC Playlist Rememberer
 An extension that save the last played item of a playlist to continue later on.
 
 Setup
